@@ -3,7 +3,7 @@
 ## Introduction
 
 # Data Requirement
-- South-Jakarta administrative data.From this data we need infromation about Districts & Regencies by scrapping wikipedia page using `beautifulsoup` package
+- South-Jakarta administrative data.From this data we need infromation about Districts & Regencies by scrapping wikipedia page using `bs4.beautifulsoup` package
 - Foursquare API. Using this API we need information about list of venues in South-Jakarta including venue name, category and coordinate locations
 - COVID-19 Data. We need number of positive cases in South-Jakarta
 - Coordinate location data. Using `geopy` package to get coordinate location for each regency in South-Jakarta
