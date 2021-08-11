@@ -1,8 +1,10 @@
 # COVID-19 Cases & Venue Analysis in South-Jakarta 
 
 ## Introduction to Business Problem
-As a national capital of Indonesia, Jakarta considered as one of the most largest capital & busiest city in the world with over 10 million populations.  Jakarta is the heart of economic & business activities of the Indonesian archipelago. With these characteristics, Jakarta has many destination locations, e.g. office centers, business centers, shopping centers, residential areas, public space etc.
-<b></b>
+ As a national capital of Indonesia, Jakarta considered as one of the most largest capital & busiest city in the world with over 10 million populations.  Jakarta is the heart of economic & business activities of the Indonesian archipelago. With these characteristics, Jakarta has many destination locations, e.g. office centers, business centers, shopping centers, residential areas, public space etc.
+
+
+
  During the COVID-19 pandemic, Jakarta has become the area with the most positive cases in Indonesia. The government requires to restrict or even close some places e.g. office, market, store, restaurant, etc. in order to reduce the transmission rate of the virus.
 Restricting or even closing all the places, building, public places, etc. can suppress the infection of COVID-19 virus, but in other hand it will caused economic issue. The government should take the equilibrium between those two option. Before taking decision which venues should be restricted or closed, the questions are, Is there any relationship between type of venues/places and the number of positive case ?. if so, which type of  venues/places should be restricted / closed ? 
 
